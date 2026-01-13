@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Treya Santhsoi Puthumbaku>`
+- **CCID:** `<puthumba>`
 
 ## References and Resources
 
