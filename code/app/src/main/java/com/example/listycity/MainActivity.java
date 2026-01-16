@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // IMPORTANT: use content.xml
+        // 
         setContentView(R.layout.content);
 
         // Find views
